@@ -6,15 +6,17 @@ The Horiseon marketing agency has asked their website to be modified so it would
 
 ## Instalation
 
-???? I am not sure what i should write here?????
+1. Clone the repository from GitHub
+2. Open it in your favorite code editor
 
 ## Usage
 
-???? I am not sure what i should write here?????
+Visit the website at ...
+
 
 ## Credits
 
-???? I am not sure what i should write here?????
+Not applicable
 
 ## License
 
